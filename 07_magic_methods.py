@@ -1,0 +1,1 @@
+print("https://github.com/krishnaik06/Complete-Python-Bootcamp/blob/main/8-Class%20And%20Objects/8.6-magicmethods.ipynb")
