@@ -1,8 +1,4 @@
-class Person:
-    def __init__(self,name,age):
-        self.__name = name
-        self.__age = age 
-
-person1 = Person("rishabh",20)
-print(person1.__name)
-# dir(person1)
+my_dict = {'a': 1, 'b': 2, 'c': 3}
+# value = my_dict.get('b')  # Safely fetches the value for key 'b'
+value = my_dict['a']
+print(value)  # Output: 2
